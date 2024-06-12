@@ -1,0 +1,39 @@
+﻿@model Usuarios
+
+
+@try
+    {
+        string respuesta = ViewBag.Title; 
+
+    <div class="login">
+        <div class="login-header">
+            <h1>Login</h1>
+        </div>
+        <form asp-action="ValidaUsuario" asp-controller="Loggin" method="post" class="login-form">
+
+            <div class="form-group">
+                <label>Nombre</label>
+                <input class="form-control" placeholder="usuario" asp-for="EstUser">
+            </div>
+            <div class="form-group">
+                <label>Contraseña</label>
+                <input class="form-control" placeholder="contraseña" asp-for="EstPass">
+            </div>
+
+            <button type="submit" id="actualizar" class="btn btn-primary">Ingresar</button>
+            <br>
+            <a class="sign-up">Sign Up!</a>
+            <br>
+            <h6 class="no-access">Can't access your account?</h6>
+        </form>
+    </div>
+    <script>
+        alert("@respuesta");
+        
+    </script>
+    <div class="error-page">
+        <div class="try-again">Error: Try again?</div>
+    </div>}
+catch { }
+
+

@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4AFFC4-FDFF-4575-AD11-B75C1B444426}|MiFirstWebAppi\\MiFirstWebAppi.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\mifirstwebappi\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4AFFC4-FDFF-4575-AD11-B75C1B444426}|MiFirstWebAppi\\MiFirstWebAppi.csproj|solutionrelative:mifirstwebappi\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\front\\views\\mostrar\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|solutionrelative:front\\views\\mostrar\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\front\\views\\loggin\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|solutionrelative:front\\views\\loggin\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4AFFC4-FDFF-4575-AD11-B75C1B444426}|MiFirstWebAppi\\MiFirstWebAppi.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\mifirstwebappi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4AFFC4-FDFF-4575-AD11-B75C1B444426}|MiFirstWebAppi\\MiFirstWebAppi.csproj|solutionrelative:mifirstwebappi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\front\\views\\loggin\\loggin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|solutionrelative:front\\views\\loggin\\loggin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\front\\views\\mostrar\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|solutionrelative:front\\views\\mostrar\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\front\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|solutionrelative:front\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\front\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|solutionrelative:front\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|solutionrelative:front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FA5F6-7FF3-4C1A-9358-4F80AD61B2CC}|DataBase\\DataBase.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\database\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1FA5F6-7FF3-4C1A-9358-4F80AD61B2CC}|DataBase\\DataBase.csproj|solutionrelative:database\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\front\\models\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|solutionrelative:front\\models\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\front\\crudaspnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E43BC25A-7880-41F0-A69C-CDA7CD3A5D3E}|Front\\CRUDASPNET.csproj|solutionrelative:front\\crudaspnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FA5F6-7FF3-4C1A-9358-4F80AD61B2CC}|DataBase\\DataBase.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\database\\migrations\\20240611224342_initdb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1FA5F6-7FF3-4C1A-9358-4F80AD61B2CC}|DataBase\\DataBase.csproj|solutionrelative:database\\migrations\\20240611224342_initdb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FA5F6-7FF3-4C1A-9358-4F80AD61B2CC}|DataBase\\DataBase.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\database\\migrations\\20240611222340_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1FA5F6-7FF3-4C1A-9358-4F80AD61B2CC}|DataBase\\DataBase.csproj|solutionrelative:database\\migrations\\20240611222340_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4AFFC4-FDFF-4575-AD11-B75C1B444426}|MiFirstWebAppi\\MiFirstWebAppi.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\mifirstwebappi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C4AFFC4-FDFF-4575-AD11-B75C1B444426}|MiFirstWebAppi\\MiFirstWebAppi.csproj|solutionrelative:mifirstwebappi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FA5F6-7FF3-4C1A-9358-4F80AD61B2CC}|DataBase\\DataBase.csproj|c:\\users\\jjacome\\source\\repos\\mifirstwebappi\\database\\pruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1FA5F6-7FF3-4C1A-9358-4F80AD61B2CC}|DataBase\\DataBase.csproj|solutionrelative:database\\pruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Guardar.cshtml",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Views\\Mostrar\\Guardar.cshtml",
+              "RelativeDocumentMoniker": "Front\\Views\\Mostrar\\Guardar.cshtml",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Views\\Mostrar\\Guardar.cshtml",
+              "RelativeToolTip": "Front\\Views\\Mostrar\\Guardar.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T01:33:17.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Front\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Front\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T01:30:00.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Views\\Mostrar\\Listar.cshtml",
+              "RelativeDocumentMoniker": "Front\\Views\\Mostrar\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Views\\Mostrar\\Listar.cshtml",
+              "RelativeToolTip": "Front\\Views\\Mostrar\\Listar.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T01:01:08.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loggin.cshtml",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Views\\Loggin\\Loggin.cshtml",
+              "RelativeDocumentMoniker": "Front\\Views\\Loggin\\Loggin.cshtml",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Views\\Loggin\\Loggin.cshtml",
+              "RelativeToolTip": "Front\\Views\\Loggin\\Loggin.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T00:50:10.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Views\\Loggin\\Listar.cshtml",
+              "RelativeDocumentMoniker": "Front\\Views\\Loggin\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Views\\Loggin\\Listar.cshtml",
+              "RelativeToolTip": "Front\\Views\\Loggin\\Listar.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T00:58:53.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\MiFirstWebAppi\\Program.cs",
+              "RelativeDocumentMoniker": "MiFirstWebAppi\\Program.cs",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\MiFirstWebAppi\\Program.cs",
+              "RelativeToolTip": "MiFirstWebAppi\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:10:07.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TareasController.cs",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\MiFirstWebAppi\\Controllers\\TareasController.cs",
+              "RelativeDocumentMoniker": "MiFirstWebAppi\\Controllers\\TareasController.cs",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\MiFirstWebAppi\\Controllers\\TareasController.cs",
+              "RelativeToolTip": "MiFirstWebAppi\\Controllers\\TareasController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwDYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:34:14.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tareas.cs",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\DataBase\\Tareas.cs",
+              "RelativeDocumentMoniker": "DataBase\\Tareas.cs",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\DataBase\\Tareas.cs",
+              "RelativeToolTip": "DataBase\\Tareas.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:57:15.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Program.cs",
+              "RelativeDocumentMoniker": "Front\\Program.cs",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Program.cs",
+              "RelativeToolTip": "Front\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:28:29.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tareas.cs",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Models\\Tareas.cs",
+              "RelativeDocumentMoniker": "Front\\Models\\Tareas.cs",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Models\\Tareas.cs",
+              "RelativeToolTip": "Front\\Models\\Tareas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:22:14.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Front\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Front\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T01:29:24.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CRUDASPNET.csproj",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\CRUDASPNET.csproj",
+              "RelativeDocumentMoniker": "Front\\CRUDASPNET.csproj",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\Front\\CRUDASPNET.csproj",
+              "RelativeToolTip": "Front\\CRUDASPNET.csproj",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T00:56:54.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240611224342_InitDb2.cs",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\DataBase\\Migrations\\20240611224342_InitDb2.cs",
+              "RelativeDocumentMoniker": "DataBase\\Migrations\\20240611224342_InitDb2.cs",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\DataBase\\Migrations\\20240611224342_InitDb2.cs",
+              "RelativeToolTip": "DataBase\\Migrations\\20240611224342_InitDb2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:43:42.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\MiFirstWebAppi\\appsettings.json",
+              "RelativeDocumentMoniker": "MiFirstWebAppi\\appsettings.json",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\MiFirstWebAppi\\appsettings.json",
+              "RelativeToolTip": "MiFirstWebAppi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T18:36:20.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240611222340_InitDb.cs",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\DataBase\\Migrations\\20240611222340_InitDb.cs",
+              "RelativeDocumentMoniker": "DataBase\\Migrations\\20240611222340_InitDb.cs",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\DataBase\\Migrations\\20240611222340_InitDb.cs",
+              "RelativeToolTip": "DataBase\\Migrations\\20240611222340_InitDb.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:24:53.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PruebaContext.cs",
+              "DocumentMoniker": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\DataBase\\PruebaContext.cs",
+              "RelativeDocumentMoniker": "DataBase\\PruebaContext.cs",
+              "ToolTip": "C:\\Users\\jjacome\\source\\repos\\MiFirstWebAppi\\DataBase\\PruebaContext.cs",
+              "RelativeToolTip": "DataBase\\PruebaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:53:25.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

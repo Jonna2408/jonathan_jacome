@@ -1,0 +1,67 @@
+﻿
+
+@try
+{
+    string sql = "select *from Tareas";
+  @*   NUsuarios.NGetData obj = new NUsuarios.NGetData(); *@
+   @*  var result = obj.GetUsuarios(sql); *@
+    var respuesta = ViewBag.Title;
+<div class="container">
+    <h2>PROGRAMA DE TAREAS</h2>
+    
+
+    <p>
+        Se muestran las tareas pendientes
+    </p>
+    <a asp-action="Formulario" asp-controller="Mostrar" class="btn btn-success btn-sm" asp-route-id="0">Nuevo</a>
+    <table class="table table-dark table-striped">
+        <thead>
+            <tr>
+                <th>Titulo</th>
+                <th>Descripcion</th>
+                <th>Fecha Creacion</th>
+                <th>Fecha Vencimiento</th>
+                <th>Completada</th>
+               
+            </tr>
+        </thead>
+        <tbody>
+
+           @*  @for (var i = 0; i < result.Rows.Count; i++)
+            {
+                    var Titulo = result.Rows[i]["titulo"].ToString().Trim();
+                    var Descripcion = result.Rows[i]["descripcion"].ToString().Trim();
+                    var Fecha_Creacion = result.Rows[i]["fecha_creacion"].ToString().Trim();
+                    var Fecha_Vencimiento = result.Rows[i]["fecha_venicimiento"].ToString().Trim();
+                    var Completada = result.Rows[i]["completada"].ToString().Trim();
+                <tr>
+                        <td>@Titulo</td>
+                        <td>@Descripcion</td>
+                        <td>@Fecha_Creacion</td>
+                        <td>@Fecha_Vencimiento</td>
+                        <td>@Completada</td>
+
+                </tr>
+            } *@
+
+
+        </tbody>
+    </table>
+
+    <script>
+       alert("@respuesta");
+    </script>
+</div>
+
+}
+catch (Exception ex)
+{
+
+
+    <script>
+        var error = "Ups........Este proceso aun no se encuentra disponible";
+        alert(error);
+    </script>
+}
+
+

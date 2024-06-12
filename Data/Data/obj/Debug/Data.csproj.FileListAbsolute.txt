@@ -1,0 +1,12 @@
+C:\Users\jufer\source\repos\Data\bin\Debug\Data.dll
+C:\Users\jufer\source\repos\Data\bin\Debug\Data.pdb
+C:\Users\jufer\source\repos\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\jufer\source\repos\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\jufer\source\repos\Data\obj\Debug\Data.dll
+C:\Users\jufer\source\repos\Data\obj\Debug\Data.pdb
+C:\Users\jjacome\source\repos\MiFirstWebAppi\Data\Data\bin\Debug\Data.dll
+C:\Users\jjacome\source\repos\MiFirstWebAppi\Data\Data\bin\Debug\Data.pdb
+C:\Users\jjacome\source\repos\MiFirstWebAppi\Data\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\jjacome\source\repos\MiFirstWebAppi\Data\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\jjacome\source\repos\MiFirstWebAppi\Data\Data\obj\Debug\Data.dll
+C:\Users\jjacome\source\repos\MiFirstWebAppi\Data\Data\obj\Debug\Data.pdb
