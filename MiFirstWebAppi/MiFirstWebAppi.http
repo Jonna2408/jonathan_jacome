@@ -1,0 +1,6 @@
+@MiFirstWebAppi_HostAddress = http://localhost:5171
+
+GET {{MiFirstWebAppi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
